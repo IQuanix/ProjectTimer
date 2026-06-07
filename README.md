@@ -31,7 +31,8 @@ Yeah it was mostly vibe coded, take it or leave it.<br>
 
 ## Installation
 Currently a single executable that creates starting folders by itself if none are there.<br>
-Just open the .exe, done.
+Just open the .exe, done. <br>
+(Windows will flag the app as long as there is no real certificate)
 
 ## Customizing the App
 This app was coded with customizability in mind.<br>
