@@ -7,11 +7,14 @@ Yeah it was mostly vibe coded, take it or leave it.<br>
 ## Current features
 - Keep time on projects you work on.
 - Start/stop and restart timer controls.
+<img width="800" height="450" alt="Function" src="https://github.com/user-attachments/assets/3401f7fe-fe0b-419c-a884-def68ace9e02" /><br>
 - Add/edit/remove projects.
 - Resizable fixed-ratio window.
 - Toggleable project list view with rows for better overview.
 - Always-on-top toggle.
-- Theme builder.
+- Theme builder.<br>
+<img width="800" height="450" alt="Themes" src="https://github.com/user-attachments/assets/9190e58f-ef56-48f8-8212-18caaaa0195a" /><br>
+<img width="800" height="450" alt="Builder" src="https://github.com/user-attachments/assets/d3ba58db-a459-41f0-82be-5c3309580709" /><br>
 >- Option to copy/create/edit themes
 >- Option to toggle the background animation
 >- Option to add background images
