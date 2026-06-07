@@ -1,6 +1,6 @@
 # Project Timer
 
-A lightweight app to track the time you spend on Projects.<br>
+A lightweight app to track the time you spend on projects.<br>
 Yeah it was mostly vibe coded, take it or leave it.<br>
 (Qt/PySide6 interface)
 
