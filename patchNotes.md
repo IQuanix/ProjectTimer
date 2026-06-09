@@ -1,9 +1,15 @@
+## V1.2_pre [patch]
+_Bugfixes_:
+>None..
+
+_Patches_:
+>Changed how users install the app so windows doesn't flag it for nothing
 ## V1.1 [bugfix + patch]
 _Bugfixes_:
 >App now remembers window location before closing
 
 _Patches_:
->Added 3 generated backgrounds for default themes: Neo Tokyo, Cyber Lime, Ember Lounge.
+>Added 3 generated backgrounds for default themes: Neo Tokyo, Cyber Lime, Ember Lounge
 ---
 ---
 ## V1.0 [first release]
