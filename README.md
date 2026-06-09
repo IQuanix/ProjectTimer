@@ -32,7 +32,8 @@ Yeah it was mostly vibe coded, take it or leave it.<br>
 ## Installation
 Currently a single executable that creates starting folders by itself if none are there.<br>
 Make a folder you want the programm in and then just open the .exe, done. <br>
-(Windows will flag the app because it is not signed, open anyway)
+(Windows will flag the app because it is not signed, open anyway)<br>
+(_V1.2 will have a simple .zip archive to fix windows flagging_)
 
 ## Customizing the App
 This app was coded with customizability in mind.<br>
